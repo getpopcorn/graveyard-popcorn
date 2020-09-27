@@ -1,0 +1,196 @@
+/* 
+  Localizable.strings
+  PopcornTime
+
+  Created by Antique on 19/7/20.
+  Copyright © 2020 Jarrod Norwell. All rights reserved.
+*/
+
+// Titles
+"Downloads" = "Downloads";
+"Movies" = "Movies";
+"Settings" = "Settings";
+"Shows" = "Shows";
+"Watchlist" = "Watchlist";
+
+// Segments
+"Downloaded" = "Downloaded";
+"Queue" = "Queue";
+
+
+// MainMediaCollectionViewController
+"Search" = "Search";
+
+"Genres" = "Genres";
+"New" = "New";
+"Searched" = "Searched";
+
+"Sort" = "Sort";
+
+
+// Genres
+"All" = "All";
+"Action" = "Action";
+"Adventure" = "Adventure";
+"Animation" = "Animation";
+"Anime" = "Anime";
+"Comedy" = "Comedy";
+"Crime" = "Crime";
+"Disaster" = "Disaster";
+"Documentary" = "Documentary";
+"Drama" = "Drama";
+"Family" = "Family";
+"Fan Film" = "Fan Film";
+"Fantasy" = "Fantasy";
+"Film Noir" = "Film Noir";
+"History" = "History";
+"Holiday" = "Holiday";
+"Horror" = "Horror";
+"Indie" = "Indie";
+"Music" = "Music";
+"Mystery" = "Mystery";
+"Romance" = "Romance";
+"Science Fiction" = "Science Fiction";
+"Short" = "Short";
+"Sports" = "Sports";
+"Sporting Event" = "Sporting Event";
+"Suspense" = "Suspense";
+"Thriller" = "Thriller";
+"War" = "War";
+"Western" = "Western";
+
+
+// Filters
+"New" = "New";
+"Popular" = "Popular";
+"Recently Added" = "Recently Added";
+"Top Rated" = "Top Rated";
+"Trending" = "Trending";
+
+
+// LoadingViewController
+"Loading" = "Loading";
+
+
+// MovieDetailsCollectionViewController
+"Download" = "Download";
+"Stream" = "Stream";
+
+"Choose Quality" = "Choose Quality";
+"Download Started" = "Download Started";
+
+"less" = "less";
+"more" = "more";
+
+"Seasons" = "Seasons";
+"Trailer" = "Trailer";
+"Cast" = "Cast";
+"Crew" = "Crew";
+
+
+// MainDownloadsCollectionViewController
+"Episode" = "Episode";
+"Movie" = "Movie";
+
+"MKV"="MKV";
+"MP4"="MP4";
+
+"Pause" = "Pause";
+"Resume" = "Resume";
+"Save" = "Save";
+"Stop (Delete)" = "Stop (Delete)";
+
+"Play" = "Play";
+"Broadcast" = "Broadcast";
+"Now Broadcasting" = "Now Broadcasting";
+"Delete" = "Delete";
+
+"of" = "of";
+
+// NEW NEW NEW
+"Choose Subtitle" = "Choose Subtitle";
+"Download Subtitles" = "Download Subtitles";
+"Play (Subtitles)" = "Play (Subtitles)";
+
+
+// Status
+"Failed" = "Failed";
+"Finished" = "Finished";
+"Paused" = "Paused";
+"Processing" = "Processing";
+
+
+// MediaDetailsSeasonCollectionViewInCell
+"Season" = "Season";
+
+
+// SettingsViewController
+"General" = "General";
+"Clear cache on exit" = "Clear cache on exit";
+
+"Subtitles" = "Subtitles";
+"Default language" = "Default language";
+"Default font family" = "Default font family";
+"Default font size" = "Default font size";
+
+"UI" = "UI";
+"Use 3 columns" = "Use 3 columns";
+"Display media titles" = "Display media titles";
+
+"Changes Saved" = "Changes Saved";
+"Popcorn needs to be relaunched for the changes to take effect correctly." = "Popcorn needs to be relaunched for the changes to take effect correctly.";
+"Exit" = "Exit";
+
+// NEW NEW NEW
+"Credits" = "Credits";
+"Spanish Translation" = "Spanish Translation";
+"Submit subtitles for other languages to @antique_dev on Twitter to help translate Popcorn and get listed above!" = "Submit subtitles for other languages to @antique_dev on Twitter to help translate Popcorn and get listed above!";
+
+"Minimum rating" = "Minimum rating";
+"Low" = "Low";
+"Medium" = "Medium";
+"High" = "High";
+"Perfect" = "Perfect";
+
+"Small" = "Small";
+"Medium" = "Medium";
+"Medium Large" = "Medium Large";
+"Large" = "Large";
+
+"None" = "None";
+
+"System" = "System";
+
+
+// General
+"Cancel" = "Cancel";
+"Close" = "Close";
+
+
+"Dismiss" = "Dismiss";
+"Dismiss & Delete" = "Dismiss & Delete";
+
+"Ready" = "Ready";
+"Resume" = "Resume";
+"Unavailable" = "Unavailable";
+
+
+"Patrons" = "Patrons";
+"Thank you to all the patrons who have and are still continuing to support Popcorn!" = "Thank you to all the patrons who have and are still continuing to support Popcorn!";
+
+
+"Reset" = "Reset";
+"This will reset all settings to their default values, are you sure you want to continue?" = "This will reset all settings to their default values, are you sure you want to continue?";
+
+
+// MediaWatchlistCollectionViewController
+"Remove" = "Remove";
+"View" = "View";
+
+"No Movies Saved" = "No Movies Saved";
+"No Shows Saved" = "No Shows Saved";
+
+
+// SceneDelegate
+"Cache was already empty, no disk space was reclaimed." = "Cache was already empty, no disk space was reclaimed.";
+"Cleaned" = "Cleaned";

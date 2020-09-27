@@ -1,0 +1,196 @@
+/* 
+  Localizable.strings
+  PopcornTime
+
+  Created by Antique on 19/7/20.
+  Copyright © 2020 Jarrod Norwell. All rights reserved.
+*/
+
+// Titles
+"Downloads"="Descargas";
+"Movies"="Películas";
+"Settings"="Configuración";
+"Shows"="Series";
+"Watchlist" = "Watchlist";
+
+// Segments
+"Downloaded"="Descargado";
+"Queue"="Cola";
+
+
+// MainMediaCollectionViewController
+"Search"="Buscar";
+
+"Genres"="Géneros";
+"New"="Nuevo";
+"Searched"="Buscado";
+
+"Sort"="Ordenar";
+
+
+// Genres
+"Action"="Acción";
+"Adventure"="Adventura";
+"All"="Todo";
+"Animation"="Animación";
+"Anime"="Anime";
+"Comedy"="Comedia";
+"Crime"="Crimen";
+"Disaster"="Desastres";
+"Documentary"="Documental";
+"Drama"="Drama";
+"Family"="Familia";
+"Fan Film"="Fan De Películas";
+"Fantasy"="Fantasía";
+"Film Noir"="Cine Negro";
+"History"="Historia";
+"Holiday"="Festividades";
+"Horror"="Horror";
+"Indie"="India";
+"Music"="Música";
+"Mystery"="Misterio";
+"Romance"="Romance";
+"Science Fiction"="Ciencia Ficción";
+"Short"="Corto";
+"Sporting Event"="Eventos deportivos";
+"Sports"="Deporte";
+"Suspense"="Suspenso";
+"Thriller"="Terror";
+"War"="Guerra";
+"Western"="Occidental";
+
+
+// Filters
+"New"="Nuevo";
+"Popular"="Popular";
+"Recently Added"="Agregado reciente";
+"Top Rated"="Mas votado";
+"Trending"="Tendencias";
+
+
+// LoadingViewController
+"Loading"="Cargando";
+
+
+// MovieDetailsCollectionViewController
+"Download"="Descargar";
+"Stream"="Stream";
+
+"Choose Quality"="Elegir calidad";
+"Download Started"="Inicio de descarga";
+
+"less"="ver menos";
+"more"="ver más";
+
+"Seasons"="Temporadas";
+"Trailer"="Trailer";
+"Cast"="Actores";
+"Crew"="Equipo";
+
+
+// MainDownloadsCollectionViewController
+"Episode"="Episodio";
+"Movie"="Pelicula";
+
+"MKV"="MKV";
+"MP4"="MP4";
+
+"Pause"="Pausa";
+"Resume"="Reanudar";
+"Save"="Guardar";
+"Stop (Delete)"="Detener (Eliminar)";
+
+"Play"="Reproducir";
+"Broadcast"="Transmitir";
+"Now Broadcasting"="Transmitiendo Ahora";
+"Delete"="Eliminar";
+
+"of"="de";
+
+// NEW NEW NEW
+"Choose Subtitle" = "Elegir subtítulo";
+"Download Subtitles" = "Descargar subtítulos";
+"Play (Subtitles)" = "Reproducir (subtítulos)";
+
+
+// Status
+"Failed"="Fallido";
+"Finished"="Finalizado";
+"Paused"="Pausado";
+"Processing"="Procesando";
+
+
+// MediaDetailsSeasonCollectionViewInCell
+"Season"="Temporada";
+
+
+// SettingsViewController
+"General"="General";
+"Clear cache on exit"="Borrar caché al salir";
+
+"Subtitles" = "Subtítulos";
+"Default language" = "Idioma predeterminado";
+"Default font family" = "Default font family";
+"Default font size" = "Tamaño de fuente predeterminado";
+
+"UI"="UI";
+"Use 3 columns"="Usar 3 columnas";
+"Display media titles"="Mostrar títulos de medios";
+
+"Changes Saved"="Cambios Guardados";
+"Popcorn needs to be relaunched for the changes to take effect correctly."="Popcorn debe relanzarse para que los cambios surtan efecto correctamente.";
+"Exit"="Salir";
+
+// NEW NEW NEW
+"Credits" = "Créditos";
+"Spanish Translation" = "Traducción a Español";
+"Submit subtitles for other languages to @antique_dev on Twitter to help translate Popcorn and get listed above!" = "Envíe subtítulos para otros idiomas a @antique_dev en Twitter para ayudar a traducir Popcorn y obtener una lista arriba";
+
+"Minimum rating" = "Calificación mínima";
+"Low" = "Baja";
+"Medium" = "Media";
+"High" = "Alta";
+"Perfect" = "Perfecta";
+
+"Small" = "Pequeño";
+"Medium" = "Mediano";
+"Medium Large" = "Mediano grande";
+"Large" = "Grande";
+
+"None" = "Ninguno";
+
+"System" = "System";
+
+
+// General
+"Cancel"="Cancelar";
+"Close" = "Cerrar";
+
+
+"Dismiss" = "Descartar";
+"Dismiss & Delete" = "Descartar y eliminar";
+
+"Ready" = "Listo";
+"Resume" = "Reanudar";
+"Unavailable" = "No disponible";
+
+
+"Patrons" = "Patrons";
+"Thank you to all the patrons who have and are still continuing to support Popcorn!\n\nMake sure to add your Twitter to Patreon so it can be shown here when the file is updated!" = "Gracias a todos los clientes que tienen y siguen apoyando Popcorn!";
+
+
+"Reset" = "Reset";
+"This will reset all settings to their default values, are you sure you want to continue?" = "This will reset all settings to their default values, are you sure you want to continue?";
+
+
+// MediaWatchlistCollectionViewController
+"Remove" = "Remove";
+"View" = "View";
+
+"No Movies Saved" = "No Movies Saved";
+"No Shows Saved" = "No Shows Saved";
+
+
+// SceneDelegate
+"Cache was already empty, no disk space was reclaimed." = "Cache was already empty, no disk space was reclaimed.";
+"Cleaned" = "Cleaned";

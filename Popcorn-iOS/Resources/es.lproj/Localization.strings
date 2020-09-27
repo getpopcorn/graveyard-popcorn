@@ -1,0 +1,105 @@
+/* 
+  Localization.strings
+  PopcornTime
+
+  Created by Antique on 19/7/20.
+  Copyright © 2020 Jarrod Norwell. All rights reserved.
+*/
+
+// Titles
+"Downloads" = "Downloads";
+"Movies" = "Movies";
+"Shows" = "Shows";
+
+// Segments
+"Downloaded" = "Downloaded";
+"Queue" = "Queue";
+"Watched" = "Watched"; // Not available yet
+"Watchlist" = "Watchlist"; // Not available yet
+
+
+// MainMediaCollectionViewController
+"Genres" = "Genres";
+"New" = "New";
+
+"Sort" = "Sort";
+
+
+// Genres
+"All" = "All";
+"Action" = "Action";
+"Adventure" = "Adventure";
+"Animation" = "Animation";
+"Anime" = "Anime";
+"Comedy" = "Comedy";
+"Crime" = "Crime";
+"Disaster" = "Disaster";
+"Documentary" = "Documentary";
+"Drama" = "Drama";
+"Family" = "Family";
+"Fan Film" = "Fan Film";
+"Fantasy" = "Fantasy";
+"Film Noir" = "Film Noir";
+"History" = "History";
+"Holiday" = "Holiday";
+"Horror" = "Horror";
+"Indie" = "Indie";
+"Music" = "Music";
+"Mystery" = "Mystery";
+"Romance" = "Romance";
+"Science Fiction" = "Science Fiction";
+"Short" = "Short";
+"Sports" = "Sports";
+"Sporting Event" = "Sporting Event";
+"Suspense" = "Suspense";
+"Thriller" = "Thriller";
+"War" = "War";
+"Western" = "Western";
+
+
+// Filters
+"New" = "New";
+"Popular" = "Popular";
+"Recently Added" = "Recently Added";
+"Top Rated" = "Top Rated";
+"Trending" = "Trending";
+
+
+// LoadingViewController
+"Loading" = "Loading";
+
+
+// MediaDetailsCollectionViewController
+"Download" = "Download";
+"Stream" = "Stream";
+
+"Download Started" = "Download Started";
+
+"less" = "less";
+"more" = "more";
+
+"Trailer" = "Trailer";
+"Cast" = "Cast";
+"Crew" = "Crew";
+
+
+// MainDownloadsCollectionViewController
+"Episode" = "Episode";
+"Movie" = "Movie";
+
+"MP4" = "MP4";
+"MKV" = "MKV";
+
+"Pause" = "Pause";
+"Resume" = "Resume";
+"Save" = "Save";
+"Stop (Delete)" = "Stop (Delete)";
+
+"Play" = "Play";
+"Broadcast" = "Broadcast";
+"Now Broadcasting" = "Now Broadcasting";
+"Delete" = "Delete";
+
+
+// General
+"Cancel" = "Cancel";

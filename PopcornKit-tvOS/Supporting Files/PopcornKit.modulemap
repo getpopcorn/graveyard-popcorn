@@ -1,0 +1,6 @@
+framework module PopcornKit {
+    umbrella header "PopcornKit_tvOS.h"
+    
+    export *
+    module * { export * }
+}
